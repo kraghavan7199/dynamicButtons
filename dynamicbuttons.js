@@ -160,7 +160,7 @@ function downloadHTML() {
     <!-- Tone.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/14.8.39/Tone.min.js"></scr` + `ipt>
     <!-- JS from CDN (replace this with actual CDN link if needed) -->
-    <script src="https://cdn.example.com/path/to/your/js/app.js"></scr` + `ipt>
+    <script src="https://cdn.jsdelivr.net/gh/kraghavan7199/dynamicButtons@main/dynamicbuttons.js"></scr` + `ipt>
 </head>
 <body>
 ${document.body.innerHTML}
